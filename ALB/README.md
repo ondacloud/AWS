@@ -33,4 +33,4 @@ aws s3api put-bucket-policy --bucket <S3 Bucket> --policy "file://s3-policy.json
 
 <br>
 
-> ![ELB Access ID](https://github.com/IlIllIlllIllll/AWS/raw/main/ALB/img/image-1.png)
+> ![ELB Access ID](https://github.com/ondacloud/AWS/raw/main/ALB/img/image-1.png)
