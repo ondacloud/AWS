@@ -56,9 +56,9 @@ S3 Bucket Prefix
 <S3 Bucket>/year/month/day에 대해서 Partitioning은 다음과 같습니다.
 ```
 Key     JQ experession
-year   .date| strptime("%Y-%m-%d %H:%M:%S")| strptime("%Y)
-month  .date| strptime("%Y-%m-%d %H:%M:%S")| strptime("%m)
-day    .date| strptime("%Y-%m-%d %H:%M:%S")| strptime("%d)
+year    .date| strptime("%Y-%m-%d %H:%M:%S")| strptime("%Y)
+month   .date| strptime("%Y-%m-%d %H:%M:%S")| strptime("%m)
+day     .date| strptime("%Y-%m-%d %H:%M:%S")| strptime("%d)
 ```
 S3 Bucket Prefix
 ```
