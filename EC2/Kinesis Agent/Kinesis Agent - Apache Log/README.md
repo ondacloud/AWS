@@ -86,10 +86,8 @@ vim /etc/sysconfig/aws-kinesis-agent
 # AGENT_LOG_LEVEL="INFO"
 ```
 
-```shell
-vim /etc/aws-kinesis/agent.json
-```
 ```json
+```vim /etc/aws-kinesis/agent.json
 {
   "cloudwatch.emitMetrics": true,
   "kinesis.endpoint": "",
