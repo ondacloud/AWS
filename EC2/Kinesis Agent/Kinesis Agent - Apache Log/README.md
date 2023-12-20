@@ -57,7 +57,7 @@ sudo systemctl restart aws-kinesis-agent
 ---
 ### Kinesis Agent - Kinesis Data Firehose
 
-![Create Kinesis Firehose](https://github.com/ondacloud/AWS/raw/main/EC2/kinesis-agent/img/image-1.png)
+![Create Kinesis Firehose](https://github.com/ondacloud/AWS/raw/main/EC2/Kinesis%20Agent/Kinesis%20Agent%20-%20Apache%20Log/img/image-1.png)
 ```shell
 aws s3 mb s3://<S3 Bucket Name>
 ```
