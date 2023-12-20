@@ -30,4 +30,4 @@ WITH (
 %flink.ssql(type=update)
 select * from wsi_logs;
 ```
-![Select KDA NoteBook Table](https://github.com/IlIllIlllIllll/AWS/raw/main/KinesisDataAnalytics/Kinesis/img/image-1.png)
+![Select KDA NoteBook Table](https://github.com/ondacloud/AWS/raw/main/KinesisDataAnalytics/Kinesis/img/image-1.png)

@@ -21,6 +21,6 @@ function handler(event) {
 
 <br>
 
-![Test CloudFront Function](https://github.com/IlIllIlllIllll/AWS/raw/main/CloudFront/Function/img/image-1.png)
+![Test CloudFront Function](https://github.com/ondacloud/AWS/raw/main/CloudFront/Function/img/image-1.png)
 
-![COnnect CloudFront Function](https://github.com/IlIllIlllIllll/AWS/raw/main/CloudFront/Function/img/image-2.png)
+![COnnect CloudFront Function](https://github.com/ondacloud/AWS/raw/main/CloudFront/Function/img/image-2.png)

@@ -1,6 +1,6 @@
 ## ECS - Resoruce Limit
 
-![ECS Container Resource Limit](https://github.com/IlIllIlllIllll/AWS/raw/main/ECS/Resource%20Limit/img/image-1.png)
+![ECS Container Resource Limit](https://github.com/ondacloud/AWS/raw/main/ECS/Resource%20Limit/img/image-1.png)
 
 **Soft Limit이란?**
 
