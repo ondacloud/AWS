@@ -17,7 +17,7 @@ aws s3 cp index.html s3://we.web.local
 
 ![Create Route53 Domain](https://github.com/ondacloud/AWS/raw/main/S3/Route53%20Static%20Web%20Site%20Hosting/img/image-4.png)
 
-![Create Route53 Domain](https://github.com/ondacloud/AWS/raw/main/SS3/Route53%20Static%20Web%20Site%20Hosting/img/image-5.png)
+![Create Route53 Domain](https://github.com/ondacloud/AWS/raw/main/S3/Route53%20Static%20Web%20Site%20Hosting/img/image-5.png)
 
 ![Create Route53 Record](https://github.com/ondacloud/AWS/raw/main/S3/Route53%20Static%20Web%20Site%20Hosting/img/image-6.png)
 
