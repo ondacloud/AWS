@@ -2,6 +2,7 @@
 
 ```python
 import boto3
+import time
 
 cfn = boto3.client('cloudfront')
 cfn_id = "<CloudFront ID>"
